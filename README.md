@@ -184,48 +184,12 @@ Thank You
 
 
 
-AI-generated dog illustration (Slide 1)
-
-
-
-Flowchart of AI process (Slide 2)
-
-
-
-AI-generated robot painting (Slide 3)
-
-
-
-AI-generated business chart (Slide 4)
-
-
-
-AI-designed bakery poster (Slide 5)
-
-
-
-Incorrect AI-generated dog (Slide 6)
-
-
-
-AI-generated genie (Slide 7)
-
-
-
-Professional "Thank You" graphic (Slide 8)
-
-To generate these images, use Generative AI tools like:
 
 
 
 
 
-DALL·E
 
 
 
-Midjourney
 
-
-
-Stable Diffusion
